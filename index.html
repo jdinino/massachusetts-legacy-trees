@@ -413,7 +413,7 @@ TREES.forEach(t => {
         ${t.rank ? '<div class="popup-item"><strong>Rank:</strong> #'+t.rank+'</div>' : ''}
         ${t.year ? '<div class="popup-item"><strong>Year Measured:</strong> '+t.year+'</div>' : ''}
         <div class="popup-item" style="grid-column:1/-1"><strong>Address:</strong> ${t.address}</div>
-        <div class="popup-item" style="grid-column:1/-1;font-family:monospace;font-size:.64rem;color:var(--text-light)"><strong style="font-family:'IBM Plex Sans'">GPS:</strong> ${t.lat.toFixed(6)}, ${t.lng.toFixed(6)}</div>
+        <div class="popup-item" style="grid-column:1/-1;font-family:monospace;font-size:.64rem;color:var(--text-light)"><strong style="font-family:'IBM Plex Sans'">GPS:</strong> ${t.precision==='area'?t.lat.toFixed(3):t.lat.toFixed(6)}, ${t.precision==='area'?t.lng.toFixed(3):t.lng.toFixed(6)}</div>
       </div>
       ${tags ? '<div class="popup-tags">'+tags+'</div>' : ''}
       <div style="display:flex;gap:4px;flex-wrap:wrap">
