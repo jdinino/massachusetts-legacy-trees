@@ -5,10 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Massachusetts Champion & Legacy Trees</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -89,12 +86,6 @@ input[type=range]{width:100%;margin:4px 0}
 .marker-geocenter{width:24px!important;height:24px!important;background:none;border:none;box-shadow:none;transition:transform .15s;filter:drop-shadow(0 1px 4px rgba(178,34,34,.5));z-index:800!important}
 .marker-geocenter:hover{transform:scale(1.5);z-index:9999!important}
 
-.marker-cluster-small{background:rgba(82,183,136,.3)!important}
-.marker-cluster-small div{background:var(--leaf)!important;color:#fff!important;font-family:'IBM Plex Sans';font-weight:600;font-size:11px}
-.marker-cluster-medium{background:rgba(64,145,108,.3)!important}
-.marker-cluster-medium div{background:var(--canopy-light)!important;color:#fff!important;font-family:'IBM Plex Sans';font-weight:600;font-size:12px}
-.marker-cluster-large{background:rgba(27,67,50,.3)!important}
-.marker-cluster-large div{background:var(--canopy)!important;color:#fff!important;font-family:'IBM Plex Sans';font-weight:700;font-size:13px}
 
 /* POPUP */
 .tree-popup{font-family:'IBM Plex Sans',sans-serif;min-width:260px;max-width:320px}
@@ -329,14 +320,7 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{
   attribution:'\u00a9 OpenStreetMap \u00a9 CARTO',maxZoom:19,subdomains:'abcd'
 }).addTo(map);
 
-const markers = L.markerClusterGroup({
-  maxClusterRadius:40,spiderfyOnMaxZoom:true,showCoverageOnHover:false,
-  iconCreateFunction:function(c){
-    const n=c.getChildCount();
-    let cls='small'; if(n>=15)cls='large'; else if(n>=6)cls='medium';
-    return L.divIcon({html:'<div>'+n+'</div>',className:'marker-cluster marker-cluster-'+cls,iconSize:L.point(36,36)});
-  }
-});
+const markers = L.featureGroup();
 
 fetch('trees.json').then(r=>r.json()).then(data=>{
 TREES = data;
