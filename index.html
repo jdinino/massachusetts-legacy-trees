@@ -709,7 +709,7 @@ updateAll();
 // TSP Route
 let tspLine = null;
 fetch('tsp_route.json').then(r=>r.json()).then(route=>{
-  document.getElementById('tspDist').textContent = route.total_km+' km';
+  document.getElementById('tspDist').textContent = Math.round(route.total_km*0.621371)+' mi';
   const latlngs = route.route_coords.map(c=>[c[0],c[1]]);
   tspLine = L.polyline(latlngs, {color:'#1B4332',weight:2,opacity:.6,dashArray:'6,4'});
   document.getElementById('tspToggle').addEventListener('change', function(){
