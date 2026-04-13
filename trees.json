@@ -22,7 +22,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 190,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 2,
@@ -47,7 +47,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 42,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 3,
@@ -97,7 +97,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 191,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 5,
@@ -122,7 +122,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 195,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 6,
@@ -197,7 +197,7 @@
     "address": "Mohawk Trail State Forest, Charlemont, MA",
     "estAge": 371,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 9,
@@ -222,7 +222,7 @@
     "address": "Dewey Hall, Smith College, Northampton, MA",
     "estAge": 56,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 10,
@@ -272,7 +272,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 57,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 12,
@@ -322,7 +322,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 187,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 14,
@@ -372,7 +372,7 @@
     "address": "Merrymount Park/ Coletta Field, Quincy, MA",
     "estAge": 145,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 16,
@@ -397,7 +397,7 @@
     "address": "St. Leo's Cemetery, Leominster, MA",
     "estAge": 216,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 17,
@@ -447,7 +447,7 @@
     "address": "Assabet River National Wildlife Refuge, Sudbury, MA",
     "estAge": 40,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 19,
@@ -472,7 +472,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 108,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 20,
@@ -522,7 +522,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 166,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 22,
@@ -547,7 +547,7 @@
     "address": "Mount Auburn Cemetery, Cambridge, MA",
     "estAge": 126,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 23,
@@ -597,7 +597,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 108,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 25,
@@ -622,7 +622,7 @@
     "address": "Mount Aubrun Cemetery, Cambridge, MA",
     "estAge": 164,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 26,
@@ -647,7 +647,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 112,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 27,
@@ -672,7 +672,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 83,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 28,
@@ -722,7 +722,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 131,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 30,
@@ -747,7 +747,7 @@
     "address": "Lyman Plant House, Smith College, Northampton, MA",
     "estAge": 146,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 31,
@@ -772,7 +772,7 @@
     "address": "Ainsworth Gymnasium, Smith College, Northampton, MA",
     "estAge": 49,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 32,
@@ -822,7 +822,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 108,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 34,
@@ -847,7 +847,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 61,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 35,
@@ -872,7 +872,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 110,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 36,
@@ -972,7 +972,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 21,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 40,
@@ -1047,7 +1047,7 @@
     "address": "Glenwood Cemetery, Everett, MA",
     "estAge": 424,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 43,
@@ -1097,7 +1097,7 @@
     "address": "Monroe State Forest, Florida, MA",
     "estAge": 226,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 45,
@@ -1147,7 +1147,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 344,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 47,
@@ -1172,7 +1172,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 119,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 48,
@@ -1222,7 +1222,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 146,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 50,
@@ -1297,7 +1297,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 57,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 53,
@@ -1422,7 +1422,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 98,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 58,
@@ -1447,7 +1447,7 @@
     "address": "Washington Park, Chelsea, MA",
     "estAge": 153,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 59,
@@ -1572,7 +1572,7 @@
     "address": "UMass Amherst, MA",
     "estAge": 108,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 64,
@@ -1622,7 +1622,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 209,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 66,
@@ -1697,7 +1697,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 188,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 69,
@@ -1772,7 +1772,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 118,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 72,
@@ -1797,7 +1797,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 51,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 73,
@@ -1822,7 +1822,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 186,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 74,
@@ -1897,7 +1897,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 145,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 77,
@@ -1947,7 +1947,7 @@
     "address": "Forest Park, Springfield, MA",
     "estAge": 102,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 79,
@@ -1972,7 +1972,7 @@
     "address": "Lithia Springs Reservation in Mount Holyoke State Forest, South Hadley, MA",
     "estAge": 401,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 80,
@@ -1997,7 +1997,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 153,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 81,
@@ -2072,7 +2072,7 @@
     "address": "Durant Park, Pittsfield, MA",
     "estAge": 197,
     "growthFactor": 2,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 84,
@@ -2197,7 +2197,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 49,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 89,
@@ -2247,7 +2247,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 131,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 91,
@@ -2322,7 +2322,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 195,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 94,
@@ -2522,7 +2522,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 204,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 102,
@@ -2572,7 +2572,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 185,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 104,
@@ -2597,7 +2597,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 86,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 105,
@@ -2647,7 +2647,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 123,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 107,
@@ -2672,7 +2672,7 @@
     "address": "John M Greene Hall.  60 Elm st. Smith College, Northampton, MA",
     "estAge": 94,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 108,
@@ -2697,7 +2697,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 129,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 109,
@@ -2747,7 +2747,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 11,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 111,
@@ -2897,7 +2897,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 216,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 117,
@@ -2922,7 +2922,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 153,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 118,
@@ -2947,7 +2947,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 241,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 119,
@@ -2972,7 +2972,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 153,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 120,
@@ -3022,7 +3022,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 211,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 122,
@@ -3072,7 +3072,7 @@
     "address": "Trudy's Garden, Smith College, Northampton, MA",
     "estAge": 91,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 124,
@@ -3147,7 +3147,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 69,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 127,
@@ -3197,7 +3197,7 @@
     "address": "Mohawk Trail State Forest, Florida, MA",
     "estAge": 153,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 129,
@@ -3572,7 +3572,7 @@
     "address": "Skinner State Park, South Hadley, MA",
     "estAge": 176,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 144,
@@ -3597,7 +3597,7 @@
     "address": "Mount Tom State Reservation, Holyoke, MA",
     "estAge": 178,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 145,
@@ -3622,7 +3622,7 @@
     "address": "Mount Tom State Reservation, Holyoke, MA",
     "estAge": 160,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 146,
@@ -3722,7 +3722,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 128,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 150,
@@ -3822,7 +3822,7 @@
     "address": "Marlboro-Sudbury State Forest, MA",
     "estAge": 41,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 154,
@@ -3947,7 +3947,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 225,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 159,
@@ -3997,7 +3997,7 @@
     "address": "Mount Auburn Cemetery, Cambridge, MA",
     "estAge": 166,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 161,
@@ -4022,7 +4022,7 @@
     "address": "UMass Amherst, MA",
     "estAge": 173,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 162,
@@ -4072,7 +4072,7 @@
     "address": "Oak grove cemetery, Falmouth, MA",
     "estAge": 277,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 164,
@@ -4347,7 +4347,7 @@
     "address": "Rowley Cemetery, MA",
     "estAge": 372,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 175,
@@ -4847,7 +4847,7 @@
     "address": "Wollaston Cemetery, Quincy, MA",
     "estAge": 220,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 195,
@@ -4872,7 +4872,7 @@
     "address": "Buttonwood Park, New Bedford, MA",
     "estAge": 273,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 196,
@@ -4897,7 +4897,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 133,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 197,
@@ -4922,7 +4922,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 167,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 198,
@@ -5222,7 +5222,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 210,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 210,
@@ -5497,7 +5497,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 165,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 221,
@@ -5522,7 +5522,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 188,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 222,
@@ -5672,7 +5672,7 @@
     "address": "Doyle Community Park, Leominster, MA",
     "estAge": 193,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 228,
@@ -5822,7 +5822,7 @@
     "address": "Wollaston Cemetery, Quincy, MA",
     "estAge": 143,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 234,
@@ -5997,7 +5997,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 13,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 241,
@@ -6397,7 +6397,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 161,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 257,
@@ -6472,7 +6472,7 @@
     "address": "Harmony Grove Cemetery, Salem, MA",
     "estAge": 65,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 260,
@@ -6572,7 +6572,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 78,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 264,
@@ -6597,7 +6597,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 36,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 265,
@@ -6822,7 +6822,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 229,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 274,
@@ -6847,7 +6847,7 @@
     "address": "Carlisle State Forest, MA",
     "estAge": 186,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 275,
@@ -7122,7 +7122,7 @@
     "address": "Look Park, Florence, MA",
     "estAge": 200,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 286,
@@ -7272,7 +7272,7 @@
     "address": "Eddies dog park, Natick, MA",
     "estAge": 99,
     "growthFactor": 2,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 292,
@@ -7622,7 +7622,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 264,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 306,
@@ -7722,7 +7722,7 @@
     "address": "Franklin Square Park, Boston, MA",
     "estAge": 216,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 310,
@@ -7847,7 +7847,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 307,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 315,
@@ -7872,7 +7872,7 @@
     "address": "Dilboy Tennis Courts, Alewife Brook Parkway, Somerville, MA",
     "estAge": 272,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 316,
@@ -7922,7 +7922,7 @@
     "address": "Oxbow National Wildlife Refuge, Harvard, MA",
     "estAge": 246,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 318,
@@ -7947,7 +7947,7 @@
     "address": "Butterfly Park, Bucknam St, Boston, MA",
     "estAge": 212,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 319,
@@ -8072,7 +8072,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 154,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 324,
@@ -8122,7 +8122,7 @@
     "address": "UMass Amherst, MA",
     "estAge": 148,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 326,
@@ -8147,7 +8147,7 @@
     "address": "Common Rd, Town common by memorial, Stow, MA",
     "estAge": 104,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 327,
@@ -8172,7 +8172,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 215,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 328,
@@ -8372,7 +8372,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 251,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 336,
@@ -8522,7 +8522,7 @@
     "address": "Middlesex Fells Reservation. South Border Road Parking Lot (south end of Bellevue Pond)., Medford, MA",
     "estAge": 236,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 342,
@@ -8572,7 +8572,7 @@
     "address": "Whiton Park, Quincy, MA",
     "estAge": 219,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 344,
@@ -8722,7 +8722,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 230,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 350,
@@ -8747,7 +8747,7 @@
     "address": "Carter Park, Leominster, MA",
     "estAge": 194,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 351,
@@ -8772,7 +8772,7 @@
     "address": "Mount Auburn Cemetery, Watertown, MA",
     "estAge": 163,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 352,
@@ -8797,7 +8797,7 @@
     "address": "Wollaston Cemetery, Quincy, MA",
     "estAge": 248,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 353,
@@ -8872,7 +8872,7 @@
     "address": "Wollaston Cemetery, Quincy, MA",
     "estAge": 225,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 356,
@@ -8947,7 +8947,7 @@
     "address": "Doyle Community Park, Leominster, MA",
     "estAge": 183,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 359,
@@ -8972,7 +8972,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 157,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 360,
@@ -8997,7 +8997,7 @@
     "address": "UMASS Amherst, MA",
     "estAge": 168,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 361,
@@ -9072,7 +9072,7 @@
     "address": "Smith College Athletic Fields, Northampton, MA",
     "estAge": 120,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 364,
@@ -9147,7 +9147,7 @@
     "address": "Frank W. Rowell Park, Lawrence, MA",
     "estAge": 151,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 367,
@@ -9172,7 +9172,7 @@
     "address": "Frank W. Rowell Park, Lawrence, MA",
     "estAge": 157,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 368,
@@ -9197,7 +9197,7 @@
     "address": "Evergreen Cemetery, Leominster, MA",
     "estAge": 110,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 369,
@@ -9222,7 +9222,7 @@
     "address": "Evergreen Cemetery, Leominster, MA",
     "estAge": 112,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 370,
@@ -9447,7 +9447,7 @@
     "address": "Smith College, Northampton, MA",
     "estAge": 209,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 379,
@@ -9647,7 +9647,7 @@
     "address": "Beaver Brook Reservation, Belmont, MA",
     "estAge": 162,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 387,
@@ -9697,7 +9697,7 @@
     "address": "Doyle Community Park, Leominster, MA",
     "estAge": 122,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 389,
@@ -9722,7 +9722,7 @@
     "address": "Green strip between 463 and 464 Commonwealth Ave, Boston, MA",
     "estAge": 146,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 390,
@@ -9747,7 +9747,7 @@
     "address": "Lynn Common, MA",
     "estAge": 9,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 391,
