@@ -172,7 +172,7 @@
     "address": "Holliston, MA",
     "estAge": 198,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 8,
@@ -572,7 +572,7 @@
     "address": "609 Main St, Shrewsbury, MA",
     "estAge": 210,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 24,
@@ -792,12 +792,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.322954,
-    "lng": -72.640775,
+    "lat": 42.2498,
+    "lng": -71.0662,
     "address": "Private, Milton, MA",
     "estAge": 291,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 33,
@@ -947,7 +947,7 @@
     "address": "Hardwick Public Library, MA",
     "estAge": 325,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 39,
@@ -997,7 +997,7 @@
     "address": "Hardwick Public Library, MA",
     "estAge": 196,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 41,
@@ -1017,8 +1017,8 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.471,
-    "lng": -70.9176,
+    "lat": 42.469613,
+    "lng": -70.91831,
     "address": "22 Monument Avenue, Swampscott, MA",
     "estAge": 307,
     "growthFactor": 6,
@@ -1647,7 +1647,7 @@
     "address": "Canton, MA",
     "estAge": 172,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 67,
@@ -2472,7 +2472,7 @@
     "address": "Lenox, MA",
     "estAge": 202,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 100,
@@ -2547,7 +2547,7 @@
     "address": "Arlington, MA",
     "estAge": 223,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 103,
@@ -2622,7 +2622,7 @@
     "address": "Edgartown, MA",
     "estAge": 308,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 106,
@@ -2847,7 +2847,7 @@
     "address": "Medway, MA",
     "estAge": 304,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 115,
@@ -3392,8 +3392,8 @@
     "rank": 6,
     "notes": "",
     "type": "legacy",
-    "lat": 42.5268,
-    "lng": -72.7882,
+    "lat": 42.525775,
+    "lng": -72.789768,
     "address": "6 South Street, Ashfield, MA",
     "estAge": 306,
     "growthFactor": 5,
@@ -3447,7 +3447,7 @@
     "address": "Acton, MA",
     "estAge": 296,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 139,
@@ -3672,7 +3672,7 @@
     "address": "Groveland, MA",
     "estAge": 148,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 148,
@@ -3842,12 +3842,12 @@
     "rank": 2,
     "notes": "",
     "type": "legacy",
-    "lat": 42.365743,
-    "lng": -71.122214,
+    "lat": 42.5001,
+    "lng": -71.5828,
     "address": "Harvard, MA",
     "estAge": 158,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 155,
@@ -3867,8 +3867,8 @@
     "rank": 3,
     "notes": "",
     "type": "legacy",
-    "lat": 42.6039,
-    "lng": -70.8912,
+    "lat": 42.60307,
+    "lng": -70.887987,
     "address": "800 Old Country Road, Wenham, MA",
     "estAge": 128,
     "growthFactor": 3,
@@ -4147,7 +4147,7 @@
     "address": "Hingham, MA",
     "estAge": 527,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 167,
@@ -4222,7 +4222,7 @@
     "address": "Waltham, MA",
     "estAge": 424,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 170,
@@ -4242,8 +4242,8 @@
     "rank": 7,
     "notes": "",
     "type": "legacy",
-    "lat": 42.6036,
-    "lng": -70.891027,
+    "lat": 42.60307,
+    "lng": -70.887987,
     "address": "800 Old Country Road, Wenham, MA",
     "estAge": 414,
     "growthFactor": 6,
@@ -4297,7 +4297,7 @@
     "address": "Shrewsbury, MA",
     "estAge": 481,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 173,
@@ -4472,7 +4472,7 @@
     "address": "Greenfield, MA",
     "estAge": 361,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 180,
@@ -4497,7 +4497,7 @@
     "address": "Greenfield, MA",
     "estAge": 361,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 181,
@@ -4947,7 +4947,7 @@
     "address": "Hardwick Public Library, MA",
     "estAge": 327,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 199,
@@ -5047,7 +5047,7 @@
     "address": "Foxborough, MA",
     "estAge": 216,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 203,
@@ -5267,8 +5267,8 @@
     "rank": 3,
     "notes": "",
     "type": "legacy",
-    "lat": 42.6036,
-    "lng": -70.891373,
+    "lat": 42.60307,
+    "lng": -70.887987,
     "address": "800 Old Country Road, Wenham, MA",
     "estAge": 181,
     "growthFactor": 5,
@@ -5447,7 +5447,7 @@
     "address": "Williamsburg, MA, MA",
     "estAge": 304,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 219,
@@ -5472,7 +5472,7 @@
     "address": "Sharon, MA",
     "estAge": 255,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 220,
@@ -5622,7 +5622,7 @@
     "address": "Fall River, MA",
     "estAge": 206,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 226,
@@ -5872,7 +5872,7 @@
     "address": "Whitman, MA",
     "estAge": 139,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 236,
@@ -5897,7 +5897,7 @@
     "address": "Fall River, MA",
     "estAge": 157,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 237,
@@ -6022,7 +6022,7 @@
     "address": "South Hadley, MA",
     "estAge": 178,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 242,
@@ -6097,7 +6097,7 @@
     "address": "South Hadley, MA",
     "estAge": 264,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 245,
@@ -7067,12 +7067,12 @@
     "rank": 6,
     "notes": "",
     "type": "legacy",
-    "lat": 42.339211,
-    "lng": -71.091347,
+    "lat": 41.9001,
+    "lng": -71.0898,
     "address": "Yes, Taunton, MA",
     "estAge": 244,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 284,
@@ -7172,7 +7172,7 @@
     "address": "Holliston, MA",
     "estAge": 89,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 288,
@@ -7197,7 +7197,7 @@
     "address": "1 Springfield St, Chicopee, MA",
     "estAge": 222,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 289,
@@ -7297,7 +7297,7 @@
     "address": "Milton, MA",
     "estAge": 192,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 293,
@@ -7322,7 +7322,7 @@
     "address": "Sheffield, MA",
     "estAge": 166,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 294,
@@ -7372,7 +7372,7 @@
     "address": "South Hadley, MA",
     "estAge": 367,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 296,
@@ -7392,12 +7392,12 @@
     "rank": 3,
     "notes": "Stunning!",
     "type": "legacy",
-    "lat": 42.587663,
-    "lng": -72.60275,
+    "lat": 42.0834,
+    "lng": -71.3987,
     "address": "201 Main Street, Franklin, MA",
     "estAge": 374,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 297,
@@ -7447,7 +7447,7 @@
     "address": "Worcester, MA",
     "estAge": 337,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 299,
@@ -7547,7 +7547,7 @@
     "address": "Waltham, MA",
     "estAge": 261,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 303,
@@ -7697,7 +7697,7 @@
     "address": "Salem, MA",
     "estAge": 253,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 309,
@@ -7742,12 +7742,12 @@
     "rank": 19,
     "notes": "",
     "type": "legacy",
-    "lat": 42.498691,
-    "lng": -71.051367,
+    "lat": 42.0268,
+    "lng": -71.537,
     "address": "23 Farm St, Blackston, MA",
     "estAge": 232,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 311,
@@ -7822,7 +7822,7 @@
     "address": "Waltham, MA",
     "estAge": 241,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 314,
@@ -7892,12 +7892,12 @@
     "rank": 4,
     "notes": "",
     "type": "legacy",
-    "lat": 42.137136,
-    "lng": -70.736852,
+    "lat": 42.6101,
+    "lng": -71.2337,
     "address": "Street tree, Tewksbury, MA",
     "estAge": 240,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 317,
@@ -8272,7 +8272,7 @@
     "address": "Springfield, MA",
     "estAge": 281,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 332,
@@ -8542,12 +8542,12 @@
     "rank": 14,
     "notes": "",
     "type": "legacy",
-    "lat": 42.213997,
-    "lng": -70.753678,
+    "lat": 42.0834,
+    "lng": -71.3987,
     "address": "4 Amy's Way, Franklin, MA",
     "estAge": 232,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 343,
@@ -8672,7 +8672,7 @@
     "address": "Greenfield, MA",
     "estAge": 231,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 348,
@@ -8822,7 +8822,7 @@
     "address": "Needham, MA",
     "estAge": 153,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 354,
@@ -9247,7 +9247,7 @@
     "address": "Carlisle, MA",
     "estAge": 248,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 371,
@@ -9292,8 +9292,8 @@
     "rank": 3,
     "notes": "\"King Elmer.\" Tree is marked with a sign",
     "type": "legacy",
-    "lat": 42.5173,
-    "lng": -73.2287,
+    "lat": 42.516718,
+    "lng": -73.226806,
     "address": "28 Summer St., Lanesborough, MA",
     "estAge": 256,
     "growthFactor": 4,
@@ -9572,7 +9572,7 @@
     "address": "763 Longmeadow St., MA",
     "estAge": 181,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 384,
@@ -9667,12 +9667,12 @@
     "rank": 18,
     "notes": "",
     "type": "legacy",
-    "lat": 42.477161,
-    "lng": -70.914294,
+    "lat": 42.0334,
+    "lng": -70.9512,
     "address": "33 Plymouth Ave, East Bridgewater, MA",
     "estAge": 148,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 388,
