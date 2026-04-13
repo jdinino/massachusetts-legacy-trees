@@ -130,6 +130,12 @@ input[type=range]{width:100%;margin:4px 0}
 .tab-btn{padding:10px 20px;border:none;background:transparent;color:var(--amber-light);font-family:inherit;font-size:.7rem;font-weight:600;text-transform:uppercase;letter-spacing:1.2px;cursor:pointer;transition:all .2s;position:relative}
 .tab-btn.active{color:var(--leaf-light);background:rgba(82,183,136,.1)}
 .tab-btn.active::after{content:'';position:absolute;bottom:0;left:0;right:0;height:3px;background:var(--leaf-light)}
+.toggle-switch{position:relative;width:32px;height:18px;display:inline-block;flex-shrink:0}
+.toggle-switch input{opacity:0;width:0;height:0}
+.toggle-slider{position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,.15);border-radius:9px;transition:.2s}
+.toggle-slider::before{content:'';position:absolute;height:14px;width:14px;left:2px;bottom:2px;background:var(--amber-light);border-radius:50%;transition:.2s}
+.toggle-switch input:checked+.toggle-slider{background:var(--leaf)}
+.toggle-switch input:checked+.toggle-slider::before{transform:translateX(14px);background:var(--white)}
 .tab-content{display:none;padding:16px;max-height:340px;overflow-y:auto}
 .tab-content.active{display:block}
 
@@ -253,7 +259,7 @@ input[type=range]{width:100%;margin:4px 0}
       <button class="tab-btn" data-tab="counties">By County</button>
       <button class="tab-btn" data-tab="species">Species Browser</button>
       <button class="tab-btn" data-tab="timeline">Timeline</button>
-      <label id="tspToggleWrap" style="margin-left:auto;display:flex;align-items:center;gap:6px;padding:0 14px;cursor:pointer;color:var(--amber-light);font-size:.65rem;font-weight:600;letter-spacing:1px;text-transform:uppercase;white-space:nowrap"><input type="checkbox" id="tspToggle" style="accent-color:var(--leaf-light)">Road Trip <span id="tspDist" style="color:var(--leaf-light)"></span></label>
+      <label id="tspToggleWrap" style="margin-left:auto;display:flex;align-items:center;gap:8px;padding:0 14px;cursor:pointer;color:var(--amber-light);font-size:.65rem;font-weight:600;letter-spacing:1px;text-transform:uppercase;white-space:nowrap"><span class="toggle-switch"><input type="checkbox" id="tspToggle"><span class="toggle-slider"></span></span>Road Trip <span id="tspDist" style="color:var(--leaf-light)"></span></label>
     </div>
     <div class="tab-content active" id="tab-table">
       <table class="data-table" id="dataTable">
