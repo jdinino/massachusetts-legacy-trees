@@ -217,7 +217,7 @@ input[type=range]{width:100%;margin:4px 0}
       <select id="filterCity"><option value="">All Cities</option></select>
     </div>
     <div class="filter-section">
-      <div class="filter-title">Year Found</div>
+      <div class="filter-title">Year Measured</div>
       <select id="filterYear"><option value="">All Years</option></select>
     </div>
     <div class="filter-section">
@@ -272,7 +272,7 @@ input[type=range]{width:100%;margin:4px 0}
           <th data-sort="points">Points <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-sort="rank">Rank <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th data-sort="estAge">Est. Age <span class="sort-arrow">&#9650;&#9660;</span></th>
-          <th data-sort="year">Year Found <span class="sort-arrow">&#9650;&#9660;</span></th>
+          <th data-sort="year">Year Measured <span class="sort-arrow">&#9650;&#9660;</span></th>
           <th>GPS</th>
         </tr></thead>
         <tbody id="tableBody"></tbody>
@@ -411,7 +411,7 @@ TREES.forEach(t => {
         <div class="popup-item"><strong>City:</strong> ${t.city}</div>
         <div class="popup-item"><strong>County:</strong> ${t.county}</div>
         ${t.rank ? '<div class="popup-item"><strong>Rank:</strong> #'+t.rank+'</div>' : ''}
-        ${t.year ? '<div class="popup-item"><strong>Year Found:</strong> '+t.year+'</div>' : ''}
+        ${t.year ? '<div class="popup-item"><strong>Year Measured:</strong> '+t.year+'</div>' : ''}
         <div class="popup-item" style="grid-column:1/-1"><strong>Address:</strong> ${t.address}</div>
         <div class="popup-item" style="grid-column:1/-1;font-family:monospace;font-size:.64rem;color:var(--text-light)"><strong style="font-family:'IBM Plex Sans'">GPS:</strong> ${t.lat.toFixed(6)}, ${t.lng.toFixed(6)}</div>
       </div>
