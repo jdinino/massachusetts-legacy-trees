@@ -342,12 +342,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.544811,
-    "lng": -71.649051,
+    "lat": 42.566696,
+    "lng": -71.656027,
     "address": "Farandnear, Shirley, MA",
     "estAge": 159,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 15,
@@ -442,12 +442,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.383184,
-    "lng": -71.414443,
+    "lat": 42.400823,
+    "lng": -71.463501,
     "address": "Assabet River National Wildlife Refuge, Sudbury, MA",
     "estAge": 40,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 19,
@@ -567,12 +567,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.2959,
-    "lng": -71.7126,
+    "lat": 42.297021,
+    "lng": -71.712727,
     "address": "609 Main St, Shrewsbury, MA",
     "estAge": 210,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 24,
@@ -1742,12 +1742,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.461514,
-    "lng": -72.903735,
+    "lat": 42.471673,
+    "lng": -72.935643,
     "address": "William Cullen Bryant Homestead, Cummington, MA",
     "estAge": 123,
     "growthFactor": 6,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 71,
@@ -1967,12 +1967,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.257955,
-    "lng": -72.575522,
+    "lat": 42.283457,
+    "lng": -72.561644,
     "address": "Lithia Springs Reservation in Mount Holyoke State Forest, South Hadley, MA",
     "estAge": 401,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 80,
@@ -2117,12 +2117,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.461407,
-    "lng": -72.904425,
+    "lat": 42.471673,
+    "lng": -72.935643,
     "address": "William Cullen Bryant Homestead, Cummington, MA",
     "estAge": 176,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 86,
@@ -3767,12 +3767,12 @@
     "rank": 3,
     "notes": "Tree growing vigorously",
     "type": "legacy",
-    "lat": 41.7415,
-    "lng": -70.599,
+    "lat": 41.699632,
+    "lng": -70.611771,
     "address": "8 Paulinda St. Pocasset, Bourne, MA",
     "estAge": 65,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 152,
@@ -4342,12 +4342,12 @@
     "rank": 11,
     "notes": "",
     "type": "legacy",
-    "lat": 42.713698,
-    "lng": -70.881836,
+    "lat": 42.714774,
+    "lng": -70.878675,
     "address": "Rowley Cemetery, MA",
     "estAge": 372,
     "growthFactor": 6,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 175,
@@ -5167,12 +5167,12 @@
     "rank": 3,
     "notes": "",
     "type": "legacy",
-    "lat": 42.053866,
-    "lng": -72.579288,
+    "lat": 42.046573,
+    "lng": -72.579623,
     "address": "Intersection of Longmeadow Street and Greenmeadow Drive, MA",
     "estAge": 197,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 208,
@@ -7192,12 +7192,12 @@
     "rank": 11,
     "notes": "",
     "type": "legacy",
-    "lat": 42.1487,
-    "lng": -72.6078,
+    "lat": 42.149412,
+    "lng": -72.606964,
     "address": "1 Springfield St, Chicopee, MA",
     "estAge": 222,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 289,
@@ -7267,12 +7267,12 @@
     "rank": 4,
     "notes": "",
     "type": "legacy",
-    "lat": 42.280118,
-    "lng": -71.349045,
+    "lat": 42.283238,
+    "lng": -71.36372,
     "address": "Eddies dog park, Natick, MA",
     "estAge": 99,
     "growthFactor": 2,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 292,
@@ -7392,12 +7392,12 @@
     "rank": 3,
     "notes": "Stunning!",
     "type": "legacy",
-    "lat": 42.0834,
-    "lng": -71.3987,
+    "lat": 42.08902,
+    "lng": -71.400689,
     "address": "201 Main Street, Franklin, MA",
     "estAge": 374,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 297,
@@ -7592,12 +7592,12 @@
     "rank": 13,
     "notes": "",
     "type": "legacy",
-    "lat": 42.633744,
-    "lng": -70.949521,
+    "lat": 42.629385,
+    "lng": -70.947188,
     "address": "Essex County Co-op, Topsfield, MA",
     "estAge": 310,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 305,
@@ -8517,12 +8517,12 @@
     "rank": 13,
     "notes": "",
     "type": "legacy",
-    "lat": 42.424869,
-    "lng": -71.107225,
+    "lat": 42.429621,
+    "lng": -71.104436,
     "address": "Middlesex Fells Reservation. South Border Road Parking Lot (south end of Bellevue Pond)., Medford, MA",
     "estAge": 236,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 342,
@@ -9567,12 +9567,12 @@
     "rank": 14,
     "notes": "Appears to be present on a photo from 1915.",
     "type": "legacy",
-    "lat": 42.0501,
-    "lng": -72.5828,
+    "lat": 42.050057,
+    "lng": -72.581447,
     "address": "763 Longmeadow St., MA",
     "estAge": 181,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 384,
@@ -9667,12 +9667,12 @@
     "rank": 18,
     "notes": "",
     "type": "legacy",
-    "lat": 42.0334,
-    "lng": -70.9512,
+    "lat": 42.028403,
+    "lng": -70.953281,
     "address": "33 Plymouth Ave, East Bridgewater, MA",
     "estAge": 148,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 388,
