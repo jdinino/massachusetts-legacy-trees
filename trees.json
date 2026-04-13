@@ -2497,7 +2497,7 @@
     "address": "Sudbury, MA",
     "estAge": 271,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 101,
