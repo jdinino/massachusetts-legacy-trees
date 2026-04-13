@@ -33,6 +33,7 @@ body{font-family:'IBM Plex Sans',sans-serif;background:var(--cream);color:var(--
 .stats-ribbon{display:flex;gap:1px;background:var(--canopy);border-bottom:3px solid var(--leaf)}
 .stat-card{flex:1;background:var(--bark-light);padding:12px 14px;text-align:center;cursor:pointer;transition:background .2s}
 .stat-card:hover{background:var(--bark)}
+.stat-card.active{background:var(--canopy-light);box-shadow:inset 0 -3px 0 var(--leaf-light)}
 .stat-val{font-family:'DM Serif Display',serif;font-size:1.35rem;color:var(--leaf-light)}
 .stat-label{font-size:.58rem;color:var(--amber-light);text-transform:uppercase;letter-spacing:1.2px;margin-top:1px;font-weight:500}
 
@@ -435,6 +436,7 @@ const rangePoints=document.getElementById('filterPoints');
 document.querySelectorAll('.type-btn').forEach(btn=>{
   btn.addEventListener('click',()=>{
     document.querySelectorAll('.type-btn').forEach(b=>b.classList.remove('active'));
+    document.querySelectorAll('.stat-card').forEach(c=>c.classList.remove('active'));
     btn.classList.add('active');
     activeType=btn.dataset.type;
     updateAll();
@@ -632,6 +634,8 @@ document.getElementById('resetBtn').addEventListener('click',()=>{
 
 // STAT CLICKS
 function statClick(which){
+  document.querySelectorAll('.stat-card').forEach(c=>c.classList.remove('active'));
+  event.currentTarget.classList.add('active');
   const filtered = getFiltered();
   if(which==='champion'){
     document.querySelectorAll('.type-btn').forEach(b=>b.classList.remove('active'));
