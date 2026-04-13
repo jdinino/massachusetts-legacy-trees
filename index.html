@@ -244,6 +244,7 @@ input[type=range]{width:100%;margin:4px 0}
       <div class="legend-item"><div class="legend-dot leg"></div><span>Legacy Tree</span></div>
       <div class="legend-item"><div class="legend-dot" style="width:18px;height:18px;background:rgba(218,165,32,.15);border:1.5px dashed #DAA520;border-radius:50%;font-size:11px;font-weight:700;color:#B8860B;display:flex;align-items:center;justify-content:center">?</div><span>Champion (approx.)</span></div>
       <div class="legend-item"><div class="legend-dot" style="width:18px;height:18px;background:rgba(74,111,165,.15);border:1.5px dashed #7B9FCC;border-radius:50%;font-size:11px;font-weight:700;color:#4A6FA5;display:flex;align-items:center;justify-content:center">?</div><span>Legacy (approx.)</span></div>
+      <div class="legend-item" style="margin-top:6px;padding-top:6px;border-top:1px solid rgba(44,24,16,.1)"><label style="display:flex;align-items:center;gap:6px;cursor:pointer;font-size:.72rem"><input type="checkbox" id="tspToggle" style="accent-color:var(--canopy)"><span style="width:18px;height:2px;background:var(--canopy);display:block;border-radius:1px"></span>Road Trip Route<span id="tspDist" style="color:var(--text-light);font-size:.6rem"></span></label></div>
     </div>
   </div>
 
@@ -698,6 +699,18 @@ window.statClick = statClick;
 window.flyTo = flyTo;
 window.filterGenus = filterGenus;
 updateAll();
+
+// TSP Route
+let tspLine = null;
+fetch('tsp_route.json').then(r=>r.json()).then(route=>{
+  document.getElementById('tspDist').textContent = route.total_km+' km';
+  const latlngs = route.route_coords.map(c=>[c[0],c[1]]);
+  tspLine = L.polyline(latlngs, {color:'#1B4332',weight:2,opacity:.6,dashArray:'6,4'});
+  document.getElementById('tspToggle').addEventListener('change', function(){
+    if(this.checked) tspLine.addTo(map);
+    else map.removeLayer(tspLine);
+  });
+});
 }
 </script>
 </body>
