@@ -147,7 +147,7 @@
     "address": "Hadley St, South Hadley, MA",
     "estAge": 252,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 7,
@@ -2047,7 +2047,7 @@
     "address": "North Main Street, Sunderland, MA",
     "estAge": 394,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 83,
@@ -5172,7 +5172,7 @@
     "address": "Intersection of Longmeadow Street and Greenmeadow Drive, MA",
     "estAge": 197,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 208,
@@ -6197,7 +6197,7 @@
     "address": "Barnes hill Rd, Berlin, MA",
     "estAge": 195,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 249,
@@ -6372,7 +6372,7 @@
     "address": "River Rd, West Newbury, MA",
     "estAge": 153,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 256,
@@ -6772,7 +6772,7 @@
     "address": "Bemis Rd, Hubbardston, MA",
     "estAge": 280,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 272,
@@ -7522,7 +7522,7 @@
     "address": "Winter St. at Hovey Ave., Natick, MA",
     "estAge": 293,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 302,
@@ -7797,7 +7797,7 @@
     "address": "Waverley Oaks Rd, Belmont, MA",
     "estAge": 258,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 313,
@@ -8622,7 +8622,7 @@
     "address": "Street, Westford, MA",
     "estAge": 185,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 346,
@@ -8897,7 +8897,7 @@
     "address": "Castle Hill Rd, Northbridge, MA",
     "estAge": 274,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 357,
