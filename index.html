@@ -587,7 +587,7 @@ function updateCounties(data){
   data.forEach(t=>{
     if(!counts[t.county])counts[t.county]={total:0,champ:0,legacy:0};
     counts[t.county].total++;
-    counts[t.county][t.type]++;
+    counts[t.county][t.type==='champion'?'champ':'legacy']++;
   });
   const sorted=Object.entries(counts).sort((a,b)=>b[1].total-a[1].total);
   const max=sorted.length?sorted[0][1].total:1;
