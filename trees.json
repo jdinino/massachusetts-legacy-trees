@@ -247,7 +247,7 @@
     "address": "Newburyport, MA",
     "estAge": 260,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 11,
@@ -1247,7 +1247,7 @@
     "address": "Longmeadow, MA",
     "estAge": 135,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 51,
@@ -1497,7 +1497,7 @@
     "address": "Dartmouth, MA",
     "estAge": 430,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 61,
@@ -1722,7 +1722,7 @@
     "address": "Manchester, MA",
     "estAge": 169,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 70,
@@ -1922,7 +1922,7 @@
     "address": "Lee, MA",
     "estAge": 141,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 78,
@@ -2722,7 +2722,7 @@
     "address": "Worcester, MA",
     "estAge": 210,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 110,
@@ -2772,7 +2772,7 @@
     "address": "Southborough, MA",
     "estAge": 201,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 112,
@@ -2797,7 +2797,7 @@
     "address": "Chatham, MA",
     "estAge": 252,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 113,
@@ -2872,7 +2872,7 @@
     "address": "Watertown, MA",
     "estAge": 304,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 116,
@@ -3247,7 +3247,7 @@
     "address": "Rockport, MA",
     "estAge": 190,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 131,
@@ -3497,7 +3497,7 @@
     "address": "Boylston, MA",
     "estAge": 199,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 141,
@@ -3797,7 +3797,7 @@
     "address": "Easthampton, MA",
     "estAge": 267,
     "growthFactor": 7.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 153,
@@ -3922,7 +3922,7 @@
     "address": "Lincoln, MA",
     "estAge": 124,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 158,
@@ -4522,7 +4522,7 @@
     "address": "Ashfield, MA",
     "estAge": 357,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 182,
@@ -4572,7 +4572,7 @@
     "address": "Cohasett, MA",
     "estAge": 374,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 184,
@@ -4722,7 +4722,7 @@
     "address": "Medford, MA",
     "estAge": 355,
     "growthFactor": 6,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 190,
@@ -5097,7 +5097,7 @@
     "address": "Cohasett, MA",
     "estAge": 180,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 205,
@@ -5547,7 +5547,7 @@
     "address": "Framingham, MA",
     "estAge": 193,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 223,
@@ -5722,7 +5722,7 @@
     "address": "Waltham, MA",
     "estAge": 201,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 230,
@@ -5747,7 +5747,7 @@
     "address": "Haverhill, MA",
     "estAge": 176,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 231,
@@ -5797,7 +5797,7 @@
     "address": "Haverhill, MA",
     "estAge": 159,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 233,
@@ -5947,7 +5947,7 @@
     "address": "Worcester, MA",
     "estAge": 122,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 239,
@@ -6047,7 +6047,7 @@
     "address": "Conway, MA",
     "estAge": 277,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 243,
@@ -6247,7 +6247,7 @@
     "address": "Sheffield, MA",
     "estAge": 119,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 251,
@@ -6422,7 +6422,7 @@
     "address": "Holden, MA",
     "estAge": 134,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 258,
@@ -6547,7 +6547,7 @@
     "address": "Groveland, MA",
     "estAge": 180,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 263,
@@ -6622,7 +6622,7 @@
     "address": "Lee, MA",
     "estAge": 135,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 266,
@@ -6647,7 +6647,7 @@
     "address": "Townsend, MA",
     "estAge": 117,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 267,
@@ -6672,7 +6672,7 @@
     "address": "Conway, MA",
     "estAge": 285,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 268,
@@ -6747,7 +6747,7 @@
     "address": "Conway, MA",
     "estAge": 309,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 271,
@@ -6872,7 +6872,7 @@
     "address": "Carlisle, MA",
     "estAge": 202,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 276,
@@ -6897,7 +6897,7 @@
     "address": "Hubbardston, MA",
     "estAge": 119,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 277,
@@ -6947,7 +6947,7 @@
     "address": "Deerfield, MA",
     "estAge": 344,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 279,
@@ -7147,7 +7147,7 @@
     "address": "Natick, MA",
     "estAge": 177,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 287,
@@ -7347,7 +7347,7 @@
     "address": "Millis, MA",
     "estAge": 334,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 295,
@@ -7422,7 +7422,7 @@
     "address": "Ashfield, MA",
     "estAge": 357,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 298,
@@ -7672,7 +7672,7 @@
     "address": "Wellesley, MA",
     "estAge": 255,
     "growthFactor": 5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 308,
@@ -8222,7 +8222,7 @@
     "address": "North Andover, MA",
     "estAge": 314,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 330,
@@ -8397,7 +8397,7 @@
     "address": "Waltham, MA",
     "estAge": 261,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 337,
@@ -8447,7 +8447,7 @@
     "address": "West Roxbury, MA",
     "estAge": 234,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 339,
@@ -8497,7 +8497,7 @@
     "address": "Framingham, MA",
     "estAge": 216,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 341,
@@ -8597,7 +8597,7 @@
     "address": "Sturbridge, MA",
     "estAge": 168,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 345,
@@ -8697,7 +8697,7 @@
     "address": "Ludlow, MA",
     "estAge": 261,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 349,
@@ -9272,7 +9272,7 @@
     "address": "Andover, MA",
     "estAge": 326,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 372,
