@@ -1267,12 +1267,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.343,
-    "lng": -71.072,
+    "lat": 42.343201,
+    "lng": -71.072173,
     "address": "46 Union Park, #1, Boston, MA, 02118, USA, MA",
     "estAge": 127,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 52,
@@ -1367,12 +1367,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.371441,
-    "lng": -71.149765,
+    "lat": 42.370697,
+    "lng": -71.144012,
     "address": "Mount Auburn Cemetary, Cambridge, MA",
     "estAge": 208,
     "growthFactor": 4.5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 56,
@@ -1667,12 +1667,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.854,
-    "lng": -70.935,
+    "lat": 42.843967,
+    "lng": -70.938879,
     "address": "1A Jaqueline Dr., Amesbury, MA",
     "estAge": 135,
     "growthFactor": 3,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 68,
@@ -3817,12 +3817,12 @@
     "rank": 2,
     "notes": "",
     "type": "legacy",
-    "lat": 42.384749,
-    "lng": -71.419538,
+    "lat": 42.397209,
+    "lng": -71.462827,
     "address": "Marlboro-Sudbury State Forest, MA",
     "estAge": 41,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 154,
@@ -4092,12 +4092,12 @@
     "rank": 4,
     "notes": "",
     "type": "legacy",
-    "lat": 42.5584,
-    "lng": -71.2687,
+    "lat": 42.563837,
+    "lng": -71.261736,
     "address": "67-Rear Andover Rd, Billerica, MA",
     "estAge": 208,
     "growthFactor": 6,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 165,
@@ -7392,7 +7392,7 @@
     "rank": 3,
     "notes": "Stunning!",
     "type": "legacy",
-    "lat": 42.085202,
+    "lat": 42.0834,
     "lng": -71.3987,
     "address": "201 Main Street, Franklin, MA",
     "estAge": 374,
@@ -7517,12 +7517,12 @@
     "rank": 10,
     "notes": "The Station Tree. Known from the Livermore Survey, 1749",
     "type": "legacy",
-    "lat": 42.278821,
-    "lng": -71.345838,
+    "lat": 42.321766,
+    "lng": -71.335215,
     "address": "Winter St. at Hovey Ave., Natick, MA",
     "estAge": 293,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 302,
@@ -7742,12 +7742,12 @@
     "rank": 19,
     "notes": "",
     "type": "legacy",
-    "lat": 42.0268,
-    "lng": -71.537,
+    "lat": 42.019698,
+    "lng": -71.512522,
     "address": "23 Farm St, Blackston, MA",
     "estAge": 232,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 311,
@@ -7867,12 +7867,12 @@
     "rank": 3,
     "notes": "",
     "type": "legacy",
-    "lat": 42.380143,
-    "lng": -71.098319,
+    "lat": 42.411999,
+    "lng": -71.131873,
     "address": "Dilboy Tennis Courts, Alewife Brook Parkway, Somerville, MA",
     "estAge": 272,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 316,
@@ -7942,12 +7942,12 @@
     "rank": 6,
     "notes": "",
     "type": "legacy",
-    "lat": 42.352874,
-    "lng": -71.055833,
+    "lat": 42.327335,
+    "lng": -71.104206,
     "address": "Butterfly Park, Bucknam St, Boston, MA",
     "estAge": 212,
     "growthFactor": 5,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 319,
@@ -8542,12 +8542,12 @@
     "rank": 14,
     "notes": "",
     "type": "legacy",
-    "lat": 42.081598,
-    "lng": -71.3987,
+    "lat": 42.13246,
+    "lng": -71.402199,
     "address": "4 Amy's Way, Franklin, MA",
     "estAge": 232,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 343,
@@ -9142,12 +9142,12 @@
     "rank": 4,
     "notes": "",
     "type": "legacy",
-    "lat": 42.708771,
-    "lng": -71.163979,
+    "lat": 42.711704,
+    "lng": -71.169805,
     "address": "Frank W. Rowell Park, Lawrence, MA",
     "estAge": 151,
     "growthFactor": 3,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 367,
@@ -9167,12 +9167,12 @@
     "rank": 5,
     "notes": "",
     "type": "legacy",
-    "lat": 42.705167,
-    "lng": -71.163979,
+    "lat": 42.711704,
+    "lng": -71.169805,
     "address": "Frank W. Rowell Park, Lawrence, MA",
     "estAge": 157,
     "growthFactor": 3,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 368,
@@ -9367,12 +9367,12 @@
     "rank": 6,
     "notes": "",
     "type": "legacy",
-    "lat": 42.343,
-    "lng": -71.071,
+    "lat": 42.343422,
+    "lng": -71.072106,
     "address": "Public Alley 701, Boston, MA, 02118, USA, MA",
     "estAge": 228,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 376,
@@ -9717,12 +9717,12 @@
     "rank": 19,
     "notes": "",
     "type": "legacy",
-    "lat": 42.35,
-    "lng": -71.096,
+    "lat": 42.348613,
+    "lng": -71.093311,
     "address": "Green strip between 463 and 464 Commonwealth Ave, Boston, MA",
     "estAge": 146,
     "growthFactor": 4,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 390,
