@@ -69,7 +69,7 @@
     "type": "champion",
     "lat": 42.316224,
     "lng": -72.640393,
-    "address": "Smith College, 23 West St, Northampton, MA 01063, MA",
+    "address": "Smith College, 23 West St, Northampton, MA",
     "estAge": 94,
     "growthFactor": 5,
     "precision": "address"
@@ -1269,7 +1269,7 @@
     "type": "champion",
     "lat": 42.343201,
     "lng": -71.072173,
-    "address": "46 Union Park, #1, Boston, MA, 02118, USA, MA",
+    "address": "46 Union Park, Boston, MA",
     "estAge": 127,
     "growthFactor": 5,
     "precision": "address"
@@ -1344,10 +1344,10 @@
     "type": "champion",
     "lat": 42.194538,
     "lng": -71.905906,
-    "address": "Rochdale, Worcester County, MA, Leicester, MA",
+    "address": "Rochdale, Leicester, MA",
     "estAge": 252,
     "growthFactor": 4.5,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 55,
@@ -1544,7 +1544,7 @@
     "type": "champion",
     "lat": 41.705441,
     "lng": -70.242579,
-    "address": "8 Strawberry Ln, Yarmouth, MA, 02675, USA, MA",
+    "address": "8 Strawberry Ln, Yarmouth, MA",
     "estAge": 387,
     "growthFactor": 5,
     "precision": "address"
@@ -3294,7 +3294,7 @@
     "type": "legacy",
     "lat": 42.562113,
     "lng": -72.804062,
-    "address": "129 Ashfield Rd, Buckland, MA 01338, MA",
+    "address": "129 Ashfield Rd, Buckland, MA",
     "estAge": 334,
     "growthFactor": 5,
     "precision": "address"
@@ -3344,7 +3344,7 @@
     "type": "legacy",
     "lat": 42.26266,
     "lng": -72.683623,
-    "address": "6 Knight Ave, Easthampton, MA 01027, MA",
+    "address": "6 Knight Ave, Easthampton, MA",
     "estAge": 312,
     "growthFactor": 5,
     "precision": "address"
@@ -4769,7 +4769,7 @@
     "type": "legacy",
     "lat": 41.705576,
     "lng": -70.242579,
-    "address": "8 Strawberry Ln, Yarmouth, MA, 02675, USA, MA",
+    "address": "8 Strawberry Ln, Yarmouth, MA",
     "estAge": 369,
     "growthFactor": 6,
     "precision": "address"
@@ -5319,7 +5319,7 @@
     "type": "legacy",
     "lat": 42.33758,
     "lng": -72.74945,
-    "address": "61 Chesterfield Rd, Westhampton, MA, MA",
+    "address": "61 Chesterfield Rd, Westhampton, MA",
     "estAge": 157,
     "growthFactor": 4,
     "precision": "address"
@@ -5444,7 +5444,7 @@
     "type": "legacy",
     "lat": 42.392871,
     "lng": -72.730586,
-    "address": "Williamsburg, MA, MA",
+    "address": "Williamsburg, MA",
     "estAge": 304,
     "growthFactor": 4.5,
     "precision": "area"
@@ -5644,7 +5644,7 @@
     "type": "legacy",
     "lat": 42.382698,
     "lng": -72.521925,
-    "address": "30 Fearing St, Amherst, MA, MA",
+    "address": "30 Fearing St, Amherst, MA",
     "estAge": 193,
     "growthFactor": 3,
     "precision": "address"
@@ -5919,10 +5919,10 @@
     "type": "legacy",
     "lat": 42.172996,
     "lng": -71.977931,
-    "address": "Charlton, Worcester County, MA, MA",
+    "address": "Charlton, MA",
     "estAge": 144,
     "growthFactor": 3,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 238,
@@ -7044,7 +7044,7 @@
     "type": "legacy",
     "lat": 42.372789,
     "lng": -71.963064,
-    "address": "319 Main Street, Rutland, MA, 01543, USA, MA",
+    "address": "319 Main Street, Rutland, MA",
     "estAge": 269,
     "growthFactor": 4,
     "precision": "address"
@@ -8419,7 +8419,7 @@
     "type": "legacy",
     "lat": 42.231589,
     "lng": -72.07678,
-    "address": "43 Slab City Rd, North Brookfield, MA, 01535, USA, MA",
+    "address": "43 Slab City Rd, North Brookfield, MA",
     "estAge": 232,
     "growthFactor": 4,
     "precision": "address"
@@ -9369,7 +9369,7 @@
     "type": "legacy",
     "lat": 42.343422,
     "lng": -71.072106,
-    "address": "Public Alley 701, Boston, MA, 02118, USA, MA",
+    "address": "Public Alley 701, Boston, MA",
     "estAge": 228,
     "growthFactor": 4,
     "precision": "address"
@@ -9469,10 +9469,10 @@
     "type": "legacy",
     "lat": 42.173131,
     "lng": -71.977931,
-    "address": "Charlton, Worcester County, MA, MA",
+    "address": "Charlton, MA",
     "estAge": 201,
     "growthFactor": 4,
-    "precision": "address"
+    "precision": "area"
   },
   {
     "id": 380,
@@ -9769,7 +9769,7 @@
     "type": "legacy",
     "lat": 42.474215,
     "lng": -72.603203,
-    "address": "35 Sugarloaf Street, South Deerfield, MA, 01373, USA, MA",
+    "address": "35 Sugarloaf Street, South Deerfield, MA",
     "estAge": 102,
     "growthFactor": 4,
     "precision": "address"
