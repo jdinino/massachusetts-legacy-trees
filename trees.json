@@ -942,12 +942,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.350945,
-    "lng": -72.189721,
+    "lat": 42.351111,
+    "lng": -72.199394,
     "address": "Hardwick Public Library, MA",
     "estAge": 325,
     "growthFactor": 6,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 39,
@@ -992,12 +992,12 @@
     "champion": "Champion",
     "rank": 1,
     "type": "champion",
-    "lat": 42.351277,
-    "lng": -72.189486,
+    "lat": 42.351111,
+    "lng": -72.199394,
     "address": "Hardwick Public Library, MA",
     "estAge": 196,
     "growthFactor": 6,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 41,
@@ -4942,12 +4942,12 @@
     "rank": 2,
     "notes": "Purple Leaf beech",
     "type": "legacy",
-    "lat": 42.349836,
-    "lng": -72.189687,
+    "lat": 42.351111,
+    "lng": -72.199394,
     "address": "Hardwick Public Library, MA",
     "estAge": 327,
     "growthFactor": 6,
-    "precision": "area"
+    "precision": "address"
   },
   {
     "id": 199,
