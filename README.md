@@ -2,7 +2,7 @@
 
 Interactive dashboard mapping every Champion and Legacy tree in the Massachusetts DCR registry.
 
-**[View the live dashboard →](https://jdinino.github.io/massachusetts-legacy-trees/)**
+**[View the dashboard →](https://jdinino.github.io/massachusetts-legacy-trees/)**
 
 ## Features
 
